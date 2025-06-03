@@ -8,3 +8,6 @@ class seseorang {
         //      cout << "Pesan dari seseorang"<<endl;
         // }
 };
+
+class Joko :public seseorang {
+};
