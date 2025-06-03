@@ -17,4 +17,5 @@ class Joko :public seseorang {
 };
 
 class lia :public seseorang {
+    public : 
 };
