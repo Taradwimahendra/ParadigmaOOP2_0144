@@ -15,3 +15,6 @@ class Joko :public seseorang {
             cout << "Pesan dari joko" << endl;
         }
 };
+
+class lia :public seseorang {
+};
